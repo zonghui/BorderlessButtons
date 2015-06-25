@@ -27,7 +27,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.Toast;
-
+//oo
 /**
  * This activity demonstrates the <b>borderless button</b> styling from the Holo visual language.
  * The most interesting bits in this sample are in the layout files (res/layout/).
